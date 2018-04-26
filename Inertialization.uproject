@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DDBAB17A-4A83-AA7F-6D3E-A99502A3152E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Inertialization",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
